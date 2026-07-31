@@ -1,0 +1,35 @@
+# SEEKAPI_CASHFLOW_PILOT_01 / G1 Radar ignition host set.
+# Source of truth: kiddhu/aion-governance#767.
+host_candidates:
+  - id: gpt-researcher
+    repo: assafelovic/gpt-researcher
+    name: GPT Researcher
+    paginated: true
+  - id: open-webui
+    repo: open-webui/open-webui
+    name: Open WebUI
+    paginated: true
+  - id: dify
+    repo: langgenius/dify
+    name: Dify
+    paginated: true
+  - id: litellm
+    repo: BerriAI/litellm
+    name: LiteLLM
+    paginated: true
+  - id: browser-use
+    repo: browser-use/browser-use
+    name: Browser Use
+    paginated: true
+  - id: crewai
+    repo: crewAIInc/crewAI
+    name: CrewAI
+    paginated: true
+  - id: autogen
+    repo: microsoft/autogen
+    name: AutoGen
+    paginated: true
+  - id: crawl4ai
+    repo: unclecode/crawl4ai
+    name: Crawl4AI
+    paginated: true
