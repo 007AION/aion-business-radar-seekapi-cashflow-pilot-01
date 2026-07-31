@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tsx src/index.ts",
     "aion:cashflow-pilot": "node scripts/aion-cashflow-pilot.mjs",
+    "cashflow_filter": "tsx src/cashflow-filter.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
