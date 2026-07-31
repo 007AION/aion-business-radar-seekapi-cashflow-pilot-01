@@ -1,0 +1,70 @@
+{
+  "project_id": "SEEKAPI_CASHFLOW_PILOT_01",
+  "provider_mode": "no-paid/local-template",
+  "host_count": 8,
+  "hosts": [
+    "assafelovic/gpt-researcher",
+    "open-webui/open-webui",
+    "langgenius/dify",
+    "BerriAI/litellm",
+    "browser-use/browser-use",
+    "crewAIInc/crewAI",
+    "microsoft/autogen",
+    "unclecode/crawl4ai"
+  ],
+  "source_fetch_counts": {
+    "assafelovic/gpt-researcher": {
+      "issues": 0,
+      "prs": 6,
+      "releases": 0,
+      "total": 6
+    },
+    "open-webui/open-webui": {
+      "issues": 40,
+      "prs": 47,
+      "releases": 0,
+      "total": 87
+    },
+    "langgenius/dify": {
+      "issues": 32,
+      "prs": 56,
+      "releases": 0,
+      "total": 88
+    },
+    "BerriAI/litellm": {
+      "issues": 60,
+      "prs": 242,
+      "releases": 3,
+      "total": 305
+    },
+    "browser-use/browser-use": {
+      "issues": 2,
+      "prs": 17,
+      "releases": 0,
+      "total": 19
+    },
+    "crewAIInc/crewAI": {
+      "issues": 11,
+      "prs": 39,
+      "releases": 1,
+      "total": 51
+    },
+    "microsoft/autogen": {
+      "issues": 5,
+      "prs": 9,
+      "releases": 0,
+      "total": 14
+    },
+    "unclecode/crawl4ai": {
+      "issues": 1,
+      "prs": 1,
+      "releases": 0,
+      "total": 2
+    }
+  },
+  "failures": [],
+  "runtime_duration_seconds": 16.5,
+  "actions_run_url": "https://github.com/007AION/aion-business-radar-seekapi-cashflow-pilot-01/actions/runs/30649077894",
+  "recurring_schedule_enabled": false,
+  "generated_digest": "digests/2026-08-01/aion-business-radar.md"
+}
